@@ -1,0 +1,88 @@
+[
+    {
+        "1": "What Will Be The Output Of the Following Code ?\na = \"p\" * 3\nprint(a)",
+        "2": "Which function finds out the Variable type in Python ?",
+        "3": "Which of the following keyword is used to define a function in Python ?",
+        "4": "Which of the following is a print Function in Python ?",
+        "5": "Which will Be The Output Of The Following Code \n s=\"QuizQuiz\"\n print(s[1:4])?",
+        "6": "Which Of The Following Data Type Is Immutable ?",
+        "7": "Which Of The Following Is Not Legal Variable Name?",
+        "8": "Which Method Can Be Used To Return A aString In Upper Case ?",
+        "9": "Which Operator Is Used For power Operation ?",
+        "10": "Which Collection Is Ordered,Changeble And Allows Duplicate Elements ?"
+    },
+    {
+        "1": {
+            "a": "ppp",
+            "b": "pp",
+            "c": "3p",
+            "d": "p3"
+        },
+        "2": {
+            "a": "typedef",
+            "b": "type",
+            "c": "typeof",
+            "d": "find"
+        },
+        "3": {
+            "a": "function",
+            "b": "def",
+            "c": "void",
+            "d": "func"
+        },
+        "4": {
+            "a": "cout",
+            "b": "println",
+            "c": "print",
+            "d": "stderr"
+        },
+        "5": {
+            "a": "Qui",
+            "b": "uiz",
+            "c": "Quiz",
+            "d": "uizQ"
+        },
+        "6": {
+            "a": "list",
+            "b": "String",
+            "c": "dictionary",
+            "d": "Set"
+        },
+        "7": {
+            "a": "myvar",
+            "b": "my_var",
+            "c": "_myvar",
+            "d": "Myvar"
+        },
+        "8": {
+            "a": "upperCase()",
+            "b": "upper()",
+            "c": "Upper()",
+            "d": "to_upper()"
+        },
+        "9": {
+            "a": "*",
+            "b": "**",
+            "c": "^",
+            "d": "$"
+        },
+        "10": {
+            "a": "List",
+            "b": "Set",
+            "c": "tuple",
+            "d": "dictionary"
+        }
+    },
+    {
+        "1": "ppp",
+        "2": "typeof",
+        "3": "def",
+        "4": "print",
+        "5": "uiz",
+        "6": "String",
+        "7": "_myvar",
+        "8": "upper()",
+        "9": "**",
+        "10": "List"
+    }
+]
